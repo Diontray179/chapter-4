@@ -1,0 +1,4 @@
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.AssemblyInfoInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.AssemblyInfo.cs

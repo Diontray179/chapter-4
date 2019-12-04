@@ -1,0 +1,11 @@
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\bin\Debug\netcoreapp2.0\doorGmae.deps.json
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\bin\Debug\netcoreapp2.0\doorGmae.runtimeconfig.json
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\bin\Debug\netcoreapp2.0\doorGmae.runtimeconfig.dev.json
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\bin\Debug\netcoreapp2.0\doorGmae.dll
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\bin\Debug\netcoreapp2.0\doorGmae.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\obj\Debug\netcoreapp2.0\doorGmae.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\obj\Debug\netcoreapp2.0\doorGmae.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\obj\Debug\netcoreapp2.0\doorGmae.AssemblyInfoInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\obj\Debug\netcoreapp2.0\doorGmae.AssemblyInfo.cs
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\obj\Debug\netcoreapp2.0\doorGmae.dll
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 4\doorGmae\doorGmae\obj\Debug\netcoreapp2.0\doorGmae.pdb
